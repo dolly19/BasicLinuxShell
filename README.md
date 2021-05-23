@@ -28,9 +28,10 @@ I have used the execvp() function from the execl() family system call to call th
 for the child program to terminate.
 
 **Command-line option :**
+
 1.help command for documentation
 
-Internal Commands :
+**Internal Commands :**
 
 2.cd = to change the current directory
 
