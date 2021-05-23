@@ -29,41 +29,45 @@ for the child program to terminate.
 
 **Command-line option :**
 
-1.help command for documentation
+1. help command for documentation
 
 **Internal Commands :**
 
-2.cd = to change the current directory
+2. cd = to change the current directory
 
-3.history = show command history
+3. history = show command history
 
 -c : clear history4.echo = print arguments
 
 -n : do not output the trailing newline
 
-5.pwd = print working directory
+4. echo = print arguments
 
-6.exit = exit the shell
+-n : do not output the trailing newline
+
+5. pwd = print working directory
+
+6. exit = exit the shell
 
 **External Commands:**
 
-7.ls = list directory contents
+7. ls = list directory contents
 
 -a : show hidden files
 
-8.cat = open files
+8. cat = open files
 
 -b : show line number
 
-9.date = show date
+9. date = show date
 
 -u : date in UTC
 
-10.rm = remove file
+10. rm = remove file
 
 -v : verbose
 
-11.mkdir = make directories
+11. mkdir = make directories
 
 -v : verbose
 
