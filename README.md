@@ -1,4 +1,4 @@
-# Basic-Linux-Shell
+# BasicLinuxShell
 Linux shell implementation
 
 **For compilation:**
